@@ -17,6 +17,11 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: Contents:
 
    usage
    api
+   development/index
+
